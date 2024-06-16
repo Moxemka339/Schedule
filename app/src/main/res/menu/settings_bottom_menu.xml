@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/space1"
+        android:enabled="false"
+        android:title="" />
+
+    <item
+        android:id="@+id/ok_button_menu"
+        android:icon="@drawable/ic_check_black_24dp"
+        android:title="@string/Aply" />
+
+    <item
+        android:id="@+id/space2"
+        android:enabled="false"
+        android:title="" />
+</menu>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="settings">Налаштування</string>
+    <string name="delete">Видалити</string>
+    <string name="add">Добавити</string>
+    <string name="menu">Сьогодні</string>
+    <string name="Next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="header">Понеділок</string>
+    <string name="app_name">Розклад пар</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_1">Час початку пари</string>
+    <string name="text_2">Назва предмету</string>
+    <string name="Week_1">Непарна неділя</string>
+    <string name="Week_2">Парна неділя</string>
+    <string name="Empty_Day_String">Сьогодні пар немає</string>
+    <string name="edit">Редагувати</string>
+    <string name="return_back">Назад</string>
+    <string name="Aply">Змінити</string>
+    <string name="time_divider">—</string>
+    <string name="edit_header">Редагування</string>
+    <string name="hint1">Початок пари</string>
+    <string name="hint2">Кінець пари</string>
+    <string name="hint3">Назва предмета</string>
+    <string name="hint4">Ім`я викладача</string>
+    <string name="hint5">Номер аудиторії</string>
+    <string name="hint6">Номер корпуса</string>
+    <string name="hint4_5">Тип пари</string>
+    <string name="hint8">Номер телефона викладача</string>
+    <string name="hint9">E-mail викладача</string>
+</resources>
